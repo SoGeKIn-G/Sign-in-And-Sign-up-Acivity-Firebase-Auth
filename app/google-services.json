@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879499175432",
+    "project_id": "sign-in-and-sign-out-activity",
+    "storage_bucket": "sign-in-and-sign-out-activity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879499175432:android:d71779e4f43d7c4e7153bd",
+        "android_client_info": {
+          "package_name": "com.gauravbora.librarymanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879499175432-tpcj804s5vh9goi8l9ac80d33a0tp67a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJkqw-sBA2u4GVStcPTnZdB9ZeZv5c46A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879499175432-tpcj804s5vh9goi8l9ac80d33a0tp67a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
